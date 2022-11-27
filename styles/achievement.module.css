@@ -1,0 +1,10 @@
+.container {
+    background-image: url("./bg1.png");
+    background-size: 100%;
+    background-attachment: scroll;
+    text-align: center;
+    color: white;
+  }
+  .container h1 {
+    font-size: 32px;
+  }
