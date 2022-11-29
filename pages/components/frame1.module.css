@@ -1,0 +1,17 @@
+.container {
+    padding: 50px;
+    color: white;
+    display: flex;
+}
+.title {
+    text-align: left;
+
+    
+}
+.title h2 {
+    font-size: 72px;
+    margin-left: 50px;
+}
+.title p {
+    font-size: 30px;
+}

@@ -1,0 +1,47 @@
+
+
+
+.container {
+    
+    padding: 50px;
+    color: white;
+    
+}
+.message {
+    display: flex;
+    align-items:center;
+    text-align: left;
+    
+    justify-content: space-between;
+    
+}
+.container h1 {
+    font-size: 72px;
+}
+.message h3 {
+    margin-right: 200px ;
+    font-size: 30px;
+}
+.image img {
+    display: flex;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px; 
+}
+.buttonarea {
+    display: flex;
+    align-items:center;
+}
+.button {
+    background-color: #363E52;
+    width: 200px;   
+    height: 50px;
+    color: white;
+    border-radius: 8px;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #13161d;
+}

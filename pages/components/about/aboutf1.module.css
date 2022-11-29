@@ -1,0 +1,51 @@
+.container {
+    padding: 50px;
+    color: white;
+}
+.container h1 {
+    font-size: 62px;
+    text-align: center;
+}
+
+.desc {
+    display: flex;
+    width: auto;
+    gap: 50px;
+}
+.desc p {
+    text-align: justify;
+    margin-top: 50px;
+    font-size: 32px;
+}
+.desc img {
+    border-radius: 8px;
+    border: solid white;
+}
+.flex {
+    display: flex;
+    
+}
+.flex h4 {
+    font-size: 28px;
+}
+.flex p {
+    font-size: 24px;
+}
+.flex img {
+    border-radius: 50%;
+    border: solid white;
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-left: auto;
+    
+}
+.container h2 {
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+.container h3 {
+    font-size: 32px;
+
+}

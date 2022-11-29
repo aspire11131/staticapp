@@ -1,0 +1,15 @@
+.container {
+    padding: 50px;
+    display: flex;
+    color: white;
+    gap: 150px;
+}
+.title {
+    text-align: left;
+}
+.title h2 {
+    font-size: 72px;
+}
+.title ul {
+    font-size: 30px;
+}

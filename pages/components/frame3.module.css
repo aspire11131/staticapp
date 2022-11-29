@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    padding: 50px;
+    color: white;
+}
+.list {
+    text-align: left;
+    
+}
+.list h2 {
+    font-size: 72px;
+}
+.list dl {
+    font-size: 30px;
+}
+.dd {
+    display: list-item;
+    list-style-type: "⭐";
+    padding-inline-start: 50px;
+}
+.image img {
+    margin-top: 25ch;
+    margin-left: 10ch;
+}
