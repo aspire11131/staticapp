@@ -24,7 +24,7 @@ export default function Navbar() {
           <Button variant="secondary">Contact us</Button>
           </a>
           <div className={styles.login}>
-          <a href='/contact'>
+          <a href='/customercare'>
           <Button variant="primary">Subscribe</Button>
           </a>
         </div>

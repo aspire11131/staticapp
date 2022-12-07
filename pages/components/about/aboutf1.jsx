@@ -18,7 +18,7 @@ export default function Aboutf1() {
                 <h4> RODNIE JOHNPAUL SEVILLA</h4> 
                 <img src="rod.jpg" alt="avatar"/> 
             </div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo nulla porttitor libero tempor consectetur. Nulla consequat in augue et dictum. Phasellus porttitor sagittis magna at convallis.
+            <p> Currently a Third year Computer Engineering Technology student from Technological University of the Philippines. Currently the Project Manager.
             </p>
 
 
@@ -33,7 +33,7 @@ export default function Aboutf1() {
                 <h4> HANNAH FAITH ESPIEL</h4> 
                 <img src="faith.jpg" alt="avatar"/>
             </div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo nulla porttitor libero tempor consectetur. Nulla consequat in augue et dictum. Phasellus porttitor sagittis magna at convallis.
+            <p> Currently a Third year Computer Engineering Technology student at Technological University of the Philippines - Cavite Campus. Also one of the developers of team.
             </p>
 
 
@@ -42,13 +42,13 @@ export default function Aboutf1() {
                 <h4> KARL EMMANUEL JARILLA</h4>
                 <img src="karl.jpg" alt="avatar"/>
             </div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo nulla porttitor libero tempor consectetur. Nulla consequat in augue et dictum. Phasellus porttitor sagittis magna at convallis.
+            <p> Currently a Third year Computer Engineering Technology student at Technological University of the Philippines - Cavite Campus. Also one of the Designers of team.
             </p>
             <div className={styles.flex}>
                 <h4> DOMINIQUE FETALBO</h4> 
                 <img src="dominique.jpg" alt="avatar"/>
             </div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo nulla porttitor libero tempor consectetur. Nulla consequat in augue et dictum. Phasellus porttitor sagittis magna at convallis.
+            <p> Currently a Fourth year Computer Engineering Technology student at Technological University of the Philippines - Cavite Campus. Also one of the Designers of team.
             </p>
 
 

@@ -27,7 +27,7 @@ export default function Customercare() {
     return(
         <div className={styles.container}>
             <Navbar/>
-            <h1> Customer Support Form</h1>
+            <h1> Customer Support or Email Subscription Form</h1>
         
         <form onSubmit={handleSubmit}>
           <h3>Contact Form</h3>
@@ -56,7 +56,7 @@ export default function Customercare() {
               name="message"
               value={message}
               onChange={handleChange}
-              placeholder="Enter your Concern..."
+              placeholder="Enter your Concern or how often you want to be updated"
               className="input"
             />
           </div>
