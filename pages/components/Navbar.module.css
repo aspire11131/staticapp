@@ -3,17 +3,9 @@
     align-items: center;
     justify-content: space-between;
     padding: 30px;
-    gap: 10px;
-    
+    gap: 10px; 
 }
-.container:hover {
-    background-color: grey;
-    opacity: 0.8;
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-    border-color: rgb(184, 22, 54);
-    border-style: ridge;
-}
+
 .actions {
     display: flex;
     gap: 20px;

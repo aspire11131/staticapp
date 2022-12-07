@@ -2,6 +2,7 @@ import styles from "../styles/customercare.module.css";
 import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Div from "./components/div";
+import Tab from "./components/tab";
 
 export default function Customercare() {
     const [values, setValues] = useState({
@@ -26,6 +27,7 @@ export default function Customercare() {
       };
     return(
         <div className={styles.container}>
+          <Tab/>
             <Navbar/>
             <h1> Customer Support Form</h1>
         

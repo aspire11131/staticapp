@@ -33,7 +33,7 @@ export default function Frame4() {
                     <li className={styles.item}>News</li>
                     </a>
                 </div>
-                <div>
+                <div className={styles.mediaicon}>
                     <li>Follow Us</li>
                     <a href="https://www.instagram.com/">
                     <img src='f4p4.png'/>

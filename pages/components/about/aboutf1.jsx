@@ -33,7 +33,7 @@ export default function Aboutf1() {
                 <h4> HANNAH FAITH ESPIEL</h4> 
                 <img src="faith.jpg" alt="avatar"/>
             </div>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo nulla porttitor libero tempor consectetur. Nulla consequat in augue et dictum. Phasellus porttitor sagittis magna at convallis.
+            <p> After gaining valuable experience in her college level, Faith decided to be part of Wonder Developets. She has developed a passion for working collaboratively to help teams and individuals succeed. In her spare time she play guitar and enjoy exploring nature and discovering new adventure with her closed friends
             </p>
 
 
