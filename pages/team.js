@@ -1,10 +1,12 @@
 import styles from "../styles/achievement.module.css";
 import Navbar from "./components/Navbar";
 import Div from "./components/div";
+import Tab from "./components/tab";
 
 export default function Team() {
     return (
         <div className={styles.container}>
+            <Tab/>
             <Navbar/>
             
             <h1> Site is still under Construction </h1>

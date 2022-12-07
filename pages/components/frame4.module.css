@@ -33,3 +33,6 @@
     color: crimson;
     cursor: pointer;
 }
+.mediaicon img:hover{
+    opacity: 50%;
+}

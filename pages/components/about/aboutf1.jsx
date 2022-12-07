@@ -33,7 +33,7 @@ export default function Aboutf1() {
                 <h4> HANNAH FAITH ESPIEL</h4> 
                 <img src="faith.jpg" alt="avatar"/>
             </div>
-            <p> Currently a Third year Computer Engineering Technology student at Technological University of the Philippines - Cavite Campus. Also one of the developers of team.
+            <p> After gaining valuable experience in her college level, Faith decided to be part of Wonder Developets. She has developed a passion for working collaboratively to help teams and individuals succeed. In her spare time she play guitar and enjoy exploring nature and discovering new adventure with her closed friends
             </p>
 
 
